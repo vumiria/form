@@ -1,0 +1,56 @@
+.container{
+	font-size: 18px;
+	border-style: solid; 
+	width: 410px;
+	height: 255px;
+	margin-top: 60px;
+	border-color: #fff;
+
+
+}
+.container2{
+	font-size: 18px;
+	border-style: solid;
+	border-color: #fff;
+	width: 410px;
+	height: 500px;
+	margin-top: 60px;
+	margin-left: 50px;
+
+
+}
+.ten{
+	margin-top: 80px;
+	color: #fff;
+
+}
+.nn{
+	margin-top: 60px;
+}
+.mm{
+	margin-top: 60px;
+}
+.body{
+	background-color: #000;
+}
+.bb{
+	margin-top: -20px;
+
+}
+input[type="text"],
+input[type="password"],
+input[type="Email"],
+input[type="submit"],
+input[type="reset"]
+{
+	border-radius: 8px;
+}
+input{
+	height: 30px;
+}
+.sign{
+	border-radius:8px;
+	height: 30px;
+}
+
+

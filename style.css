@@ -1,0 +1,16 @@
+body{
+	background-color: #11103110;
+	font-style: italic;
+}
+p{
+	font-size: 24px;
+	font-style: italic;
+
+
+}
+input{
+	border-radius: 7px;
+	height: 20px;
+	margin-left: 20px;
+}
+
